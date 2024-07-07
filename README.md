@@ -9,7 +9,7 @@ This project is my first .NET project using GitHub
 
 Here is a useful link to a Markdown cheat sheet:
 
-- [Markdown Cheat Shhet](https://www.markdownguide.org/cheat-sheet/)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 Here is a screenshot
-![Markdown image]("C:\Users\great\Downloads\Screenshot_7-7-2024_05056_www.markdownguide.org.jpeg")
+![Screenshot_7-7-2024_05056_www markdownguide org](https://github.com/ScottProgrammer88/HelloSourceControl/assets/166746824/5f93e599-3ff8-4bb6-a33a-5f41ec52ed44)
